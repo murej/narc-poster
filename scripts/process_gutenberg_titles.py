@@ -8,7 +8,7 @@
 import os
 import xmltodict
 
-targetLanguage = 'cn'
+targetLanguage = 'en'
 
 dir = os.path.dirname(__file__)
 
